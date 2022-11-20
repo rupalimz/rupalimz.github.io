@@ -1,2 +1,3 @@
-# rupalimz.github.io
-For hosting website
+Hello,
+ This is Rupali.
+ Lets build a better code.
